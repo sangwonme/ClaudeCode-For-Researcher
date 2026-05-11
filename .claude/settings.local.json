@@ -5,7 +5,9 @@
       "Bash(mv scripts/export_pdf.py .claude/skills/pdf/scripts/export_pdf.py)",
       "Bash(mv SKILL.md .claude/skills/pdf/SKILL.md)",
       "Bash(rmdir scripts:*)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "defaultMode": "bypassPermissions"
   }
