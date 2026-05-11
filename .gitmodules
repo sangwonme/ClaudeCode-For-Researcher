@@ -1,0 +1,9 @@
+[submodule "ClaudeCode-Alert-Hook"]
+	path = ClaudeCode-Alert-Hook
+	url = https://github.com/sangwonme/ClaudeCode-Alert-Hook.git
+[submodule "ClaudeCode-PDF-Skill"]
+	path = ClaudeCode-PDF-Skill
+	url = https://github.com/sangwonme/ClaudeCode-PDF-Skill.git
+[submodule "ClaudeCode-SeeFig-Skill"]
+	path = ClaudeCode-SeeFig-Skill
+	url = https://github.com/sangwonme/ClaudeCode-SeeFig-Skill.git
