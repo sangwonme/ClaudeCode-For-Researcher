@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd:*)",
+      "Bash(mv scripts/export_pdf.py .claude/skills/pdf/scripts/export_pdf.py)",
+      "Bash(mv SKILL.md .claude/skills/pdf/SKILL.md)",
+      "Bash(rmdir scripts:*)",
+      "Skill(update-config)"
+    ],
+    "defaultMode": "bypassPermissions"
+  }
+}
